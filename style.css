@@ -1,0 +1,16 @@
+form{
+    margin: 70px 0px 0px 500px; /* Espaçamento das margens no topo e nas laterais */
+    width: 500px; /*Altura*/
+    text-align: left; /*Alinhamento do texto*/
+}
+
+label{
+    display: block; /*Quebra de linha */
+    margin: 10px 10px 10px 0; /* Espaçamento das margens */
+}
+
+input{
+    display: block; /*Quebra de linha */
+    height: 30px; /* altura do campo */
+}
+
