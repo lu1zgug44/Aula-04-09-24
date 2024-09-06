@@ -14,3 +14,19 @@ input{
     height: 30px; /* altura do campo */
 }
 
+body{
+    background-color: black; /*Cor do fundo*/
+    color: aliceblue; /*Cor da fonte*/
+}
+
+.btn {
+    background-color: #3882c7; /*Cor de fundo*/
+    color: #fff; /*Cor de do testo*/
+    text-align: center; /*Alinhamento*/
+    cursor: pointer; /*Maoznha quando passa o mouse*/
+    border-radius: 10px; /*arredondamento da borda*/
+    width: 120px; /*largura do botão*/
+    font-weight: bold; /*fonte em negrito*/
+    border: none; /*Sem borda*/
+    padding: 10px 15px; /*Largura e altura interna */
+    font-size: 1em; /*tamanho da fonte */}
